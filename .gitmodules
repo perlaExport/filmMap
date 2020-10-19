@@ -1,6 +1,3 @@
-[submodule "server"]
-	path = server
-	url = https://github.com/perlaExport/filmMap-server
-[submodule "client"]
-	path = client
-	url = https://github.com/perlaExport/filmMap-client
+[submodule "filmMap-client"]
+	path = filmMap-client
+	url = https://github.com/perlaExport/filmMap-client.git
