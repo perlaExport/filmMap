@@ -31,6 +31,6 @@ The goal of this project is to create a web based application where users can cr
 - [Spring Boot](https://spring.io/projects/spring-boot)
 
 ### [FRONTEND]
-- [React[(https://reactjs.org/)
+- [React](https://reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [SASS](https://sass-lang.com/)
