@@ -26,11 +26,11 @@ The goal of this project is to create a web based application where users can cr
 
 ## Used Technologies
 
-## [BACKEND]
+### [BACKEND]
 - [Java 8](https://www.oracle.com/java/technologies/java8.html)
 - [Spring Boot](https://spring.io/projects/spring-boot)
 
-## [FRONTEND]
+### [FRONTEND]
 - [React[(https://reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [SASS](https://sass-lang.com/)
