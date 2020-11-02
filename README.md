@@ -16,7 +16,7 @@ The goal of this project is to create a web based application where users can cr
 ### Nonfunctional Requirements (NFRs)
 - The application gets data from an external movie database.
 - The application uses the database to store user data and movie information.
-- Web application can be ran on all the latest browsers.
+- Web application can be run on latest versions of browsers like: Edge, Chrome, Opera, Firefox.
 - The application uses the https protocol.
 - The application uses the ALS method for movie recomendations.
 
@@ -27,7 +27,7 @@ The goal of this project is to create a web based application where users can cr
 ## Used Technologies
 
 ### [BACKEND]
-- [Java 8](https://www.oracle.com/java/technologies/java8.html)
+- [Java 11](https://openjdk.java.net/projects/jdk/11/)
 - [Spring Boot](https://spring.io/projects/spring-boot)
 
 ### [FRONTEND]
