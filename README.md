@@ -7,18 +7,20 @@ The goal of this project is to create a web based application where users can cr
 
 ### Functional requirements (FRs)
 - User registration.
+- User authentication using Spring Security.
 - Movie search by title and category.
 - Access to movie details like scores and reviews.
 - Movie rating.
 - Personal movie recomendation based on user profile.
-- Random movie recomendation based on picked category
+- Random movie recomendation based on picked category.
 
 ### Nonfunctional Requirements (NFRs)
 - The application gets data from an external movie database.
 - The application uses the database to store user data and movie information.
 - Web application can be run on latest versions of browsers like: Edge, Chrome, Opera, Firefox.
 - The application uses the https protocol.
-- The application uses the ALS method for movie recomendations.
+- The application uses the ALS *(Alternating Least Squares)* method for movie recomendations.
+- Separate Server API that can be used with different clients.
 
 ## App Setup instructions
 
