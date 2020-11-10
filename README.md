@@ -5,6 +5,10 @@
 Inspiration for this project came from websites like: [movie-map](https://www.movie-map.com/), [rottentomatoes](https://www.rottentomatoes.com/), [jinni](http://www.jinni.com/).
 The goal of this project is to create a web based application where users can create personal accounts and select movies they enjoy, based on users selected movies application will returna  list of best matched films for the user. The more users and ratings application has in the database the more accurate the result will be.
 
+## App Setup instructions
+
+*[ TBD ]*
+
 ### Functional requirements (FRs)
 - User registration.
 - User authentication using Spring Security.
@@ -22,9 +26,8 @@ The goal of this project is to create a web based application where users can cr
 - The application uses the ALS *(Alternating Least Squares)* method for movie recomendations.
 - Separate Server API that can be used with different clients.
 
-## App Setup instructions
-
-*[ TBD ]*
+## ERD Diagram
+![](https://github.com/perlaExport/filmMap/blob/main/erd_diagram.png?raw=true)
 
 ## Used Technologies
 
